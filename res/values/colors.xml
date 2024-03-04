@@ -17,6 +17,7 @@
 <resources>
     <color name="thumb_gray_color">#1F000000</color>
     <color name="clear_cache_icon_color">#5F6368</color>
+    <color name="icon_background_color">@*android:color/accent_device_default_light</color>
 
     <!-- PhotoPicker -->
     <color name="picker_background_color">@android:color/white</color>
